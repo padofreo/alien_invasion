@@ -1,8 +1,12 @@
 # Alien Invasion
 
-Game that allows ship to shoot down rows of aliens.
+Game that allows a ship to shoot down rows of aliens.
 
 Followed Python Crash Course example.
+
+
+![image](https://user-images.githubusercontent.com/27832889/158300561-4a84d4de-cc29-4628-9c9e-5cae2b86f0ad.png)
+
 
 # Future coding improvements:
 - Use A and D instead of RIGHT and LEFT.  Option at start to choose
