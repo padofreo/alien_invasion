@@ -1,8 +1,8 @@
 # Alien Invasion
 
-Game that allows a ship to shoot down rows of aliens.
+Introduction to Python programming langauge by following the Alien Invasion game example in Python Crash Course by Eric Matthes.
 
-Followed Python Crash Course example.
+Game allows a gun ship to shoot down rows of aliens.
 
 
 ![image](https://user-images.githubusercontent.com/27832889/158300561-4a84d4de-cc29-4628-9c9e-5cae2b86f0ad.png)
